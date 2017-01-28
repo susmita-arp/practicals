@@ -3,3 +3,5 @@
 #pro-9 capitalized sentence 
 str=raw_input()
 print str.upper()
+
+print "close program"
